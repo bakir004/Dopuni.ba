@@ -1,6 +1,6 @@
 # Dopuni.ba
 
-## Heroku hosting has been unfortunately canceled for this project. See its video demonstration at [bakircinjarevic.com](www.bakircinjarevic.com)
+## Heroku hosting has been unfortunately canceled for this project. See its video demonstration at [bakircinjarevic.com](https://www.bakircinjarevic.com)
 
 Discovering the simplicity of Socket.io made me think of its use.
 The first thought was making a multiplayer game for me and my friends.
